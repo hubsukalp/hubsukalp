@@ -9,7 +9,7 @@ I'm a developer and student from India, passionate about solving problems with c
 - ## My Tech Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
 </p>
 
 ## My GitHub Stats
