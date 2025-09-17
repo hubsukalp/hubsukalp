@@ -4,7 +4,6 @@ I'm a developer and student from India, passionate about solving problems with c
 
 - 🔭 I’m currently working on a Lung Cancer Detection Project.
 - 🌱 I’m currently learning Generative AI
-- 💬 Ask me about Python, C, and IoT.
 
 - ## My Tech Skills
 
