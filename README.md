@@ -3,7 +3,6 @@
 I'm a developer and student from India, passionate about solving problems with code.
 
 - 🔭 I’m currently working on a Lung Cancer Detection Project.
-- 🌱 I’m learning and building with Generative AI - check out my [RAG with Langchain](https://github.com/hubsukalp/RAG_with_Langchain) project!
 
 - ## My Tech Skills
 
