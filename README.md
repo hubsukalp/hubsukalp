@@ -2,7 +2,7 @@
 
 I'm a developer and student from India, passionate about solving problems with code.
 
-- 🔭 I’m currently working on a Lung Cancer Detection Project and learning about Generative AI Technology.
+- 🔭 I’m currently working on a Structure-Based Discovery of Potential Bioactive Molecules Project and learning about Generative AI Technology.
 
 - ## My Tech Skills
 
