@@ -26,11 +26,14 @@ Passionate about solving real-world problems with code — from healthcare to su
 
 ## 📈 My GitHub Stats  
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hubsukalp&show_icons=true&theme=radical" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubsukalp&layout=compact&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hubsukalp&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubsukalp&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
 
 - 🔥 210+ contributions in 2025  
 - 📂 21 repositories across AI/ML, fintech, and compiler construction  
