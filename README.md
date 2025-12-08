@@ -34,14 +34,6 @@ Passionate about solving real-world problems with code — from healthcare to su
   <img src="https://github-readme-stats-6atiyc7ox-sukalp-warhekars-projects.vercel.app/api/top-langs/?username=hubsukalp&layout=compact&theme=radical&hide_border=true&cache_seconds=1800&v=1" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hubsukalp&theme=radical&hide_border=true&v=1" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hubsukalp&theme=radical&margin-w=15&margin-h=15&v=1" alt="GitHub trophies" />
-</p>
-
 ---
 
 - 🔥 210+ contributions in 2025  
