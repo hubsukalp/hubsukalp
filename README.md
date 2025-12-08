@@ -7,18 +7,18 @@ Passionate about solving real-world problems with code — from healthcare to su
 
 ## 🚀 My Tech Skills  
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,cpp,c,js,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,typescript,cpp,c,js,html,css,tensorflow,pytorch,git" />
 </p>
 
-- Frameworks: TensorFlow, PyTorch, Streamlit  
-- Tools: Jupyter Notebook, Git, Data Visualization (Plotly, D3.js)  
+- **Frameworks:** TensorFlow, PyTorch, Streamlit  
+- **Tools:** Jupyter Notebook, Git, Data Visualization (Plotly, D3.js)  
 
 ---
 
 ## 📌 Featured Projects  
 
-- 🌱 **Forest Fire Detection** – AI for environmental safety    
+- 🌱 **Forest Fire Detection** – AI for environmental safety  
 - 🧬 **Lung Cancer Detection using PSO** – Healthcare AI (Dec 2025)  
 - 📊 **Renewal Prediction Model** – Predictive analytics (Dec 2025)  
 
@@ -36,10 +36,7 @@ Passionate about solving real-world problems with code — from healthcare to su
 
 ---
 
-- 🔥 210+ contributions in 2025  
-- 📂 21 repositories across AI/ML, fintech, and compiler construction  
-- 🌍 Proud to be part of India’s growing open-source community  
-
----
-
-✨ Always learning, building, and contributing to open source. Let’s connect and collaborate!
+<p align="center">
+  🌍 Proud to be part of India’s growing open-source community<br>
+  ✨ Always learning, building, and contributing. Let’s connect and collaborate!
+</p>
