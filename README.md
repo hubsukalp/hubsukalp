@@ -24,15 +24,12 @@ Passionate about solving real-world problems with code — from healthcare to su
 
 ---
 
-## 📈 My GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hubsukalp&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hubsukalp&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
+- **Contributions:** 210+ in 2025 🚀
+- **Repositories:** 22+ Projects
+- **Top Languages:** Python, Jupyter Notebook, HTML
+- **Focus:** AI/ML, Healthcare, Open Source
 
 ---
 
