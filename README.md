@@ -27,11 +27,11 @@ Passionate about solving real-world problems with code — from healthcare to su
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hubsukalp&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hubsukalp&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubsukalp&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hubsukalp&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
 ---
