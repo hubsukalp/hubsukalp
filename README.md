@@ -8,7 +8,7 @@ Passionate about solving real-world problems with code — from healthcare to su
 ## 🚀 My Tech Skills  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,cpp,c,js,html,css,tensorflow,pytorch,git" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,tensorflow,pytorch,git" />
 </p>
 
 - **Frameworks:** TensorFlow, PyTorch, Streamlit  
@@ -24,16 +24,14 @@ Passionate about solving real-world problems with code — from healthcare to su
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 Key Achievements  
 
-- **Contributions:** 210+ in 2025 🚀
-- **Repositories:** 22+ Projects
-- **Top Languages:** Python, Jupyter Notebook, HTML
-- **Focus:** AI/ML, Healthcare, Open Source
+- 🚀 **210+ Contributions** in 2025  
+- 📂 **22+ Repositories** across AI/ML and Fintech  
+- 🌍 **Open Source** contributor & part of India's developer community  
 
 ---
 
 <p align="center">
-  🌍 Proud to be part of India’s growing open-source community<br>
   ✨ Always learning, building, and contributing. Let’s connect and collaborate!
 </p>
