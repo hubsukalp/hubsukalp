@@ -1,6 +1,6 @@
 # 👋 Hi — I'm Sukalp Warhekar
 
-I'm a Computer Science student from India focused on Artificial Intelligence & Machine Learning (AIML). I build practical ML solutions that help in healthcare, environmental monitoring, and predictive analytics.
+I'm a Computer Science graduate (B.Tech, CSE) from India focused on Artificial Intelligence & Machine Learning (AIML). I build practical ML solutions that help in healthcare, environmental monitoring, and predictive analytics.
 
 ---
 
