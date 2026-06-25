@@ -1,37 +1,43 @@
-# 👋 Hi there, I'm Sukalp Warhekar  
+# 👋 Hi — I'm Sukalp Warhekar
 
-I'm a CS student from India specializing in **Artificial Intelligence & Machine Learning (AIML)**.  
-Passionate about solving real-world problems with code — from healthcare to sustainability.  
+I'm a Computer Science student from India focused on Artificial Intelligence & Machine Learning (AIML). I build practical ML solutions that help in healthcare, environmental monitoring, and predictive analytics.
 
 ---
 
-## 🚀 My Tech Skills  
+## 🚀 Tech & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,tensorflow,pytorch,git" />
 </p>
 
-- **Frameworks:** TensorFlow, PyTorch, Streamlit  
-- **Tools:** Jupyter Notebook, Git, Data Visualization (Plotly, D3.js)  
+- Frameworks: TensorFlow, PyTorch, Streamlit
+- Tools: Jupyter Notebook, Git, Docker, Plotly
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Selected Projects
 
-- 🌱 **Forest Fire Detection** – AI for environmental safety  
-- 🧬 **Lung Cancer Detection using PSO** – Healthcare AI (Dec 2025)  
-- 📊 **Renewal Prediction Model** – Predictive analytics (Dec 2025)  
+- 🌱 Forest Fire Detection — Environmental monitoring using satellite/image data and ML.
+- 🧬 Lung Cancer Detection using PSO — Medical imaging solution (feature extraction + classifier).
+- 📊 Renewal Prediction Model — Predictive modelling for retention and renewal analytics.
 
----
-
-## 🏆 Key Achievements  
-
-- 🚀 **210+ Contributions** in 2025  
-- 📂 **22+ Repositories** across AI/ML and Fintech  
-- 🌍 **Open Source** contributor & part of India's developer community  
+(For full project details and code, check my repositories linked on my profile and website.)
 
 ---
 
-<p align="center">
-  ✨ Always learning, building, and contributing. Let’s connect and collaborate!
-</p>
+## 🏆 Highlights
+
+- 210+ contributions in 2025
+- 20+ repositories across AI/ML and Fintech
+- Active open-source contributor and member of local developer communities
+
+---
+
+## 🔗 Links
+
+- Website: https://hubsukalp.vercel.app
+- GitHub: https://github.com/hubsukalp
+
+---
+
+<p align="center">✨ Always learning, building, and contributing. Let’s connect!</p>
